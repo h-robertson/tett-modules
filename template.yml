@@ -55,6 +55,11 @@ settings:
   - property: legend_size
     import: "@flourish/legend/continuous-size"
 
+  # Adding colors
+
+  - Colors
+  - property: color
+    import: "@flourish/colors"
   
 
 
